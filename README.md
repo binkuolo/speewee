@@ -39,3 +39,6 @@ class User(BaseModel):
 * Thank you so much for [peewee](https://github.com/coleifer/peewee)
 ## github
 [speewee](https://github.com/langengel/speewee)
+
+## gitee
+[speewee](https://gitee.com/langengel/speewee)
